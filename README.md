@@ -1,9 +1,6 @@
-# pts_rf
-
-=====================================================================
 Data Description for Min (2026) Personal Thermal Sensation RF Model
-=====================================================================
 
+=============================================
 This dataset contains the complete records (n=1,658) used for the Random Forest modeling in the study.
 
 [Variables]
